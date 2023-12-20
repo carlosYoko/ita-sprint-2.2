@@ -13,14 +13,14 @@ En otras palabras, la función throttle establecerá un intervalo de tiempo entr
 
 - Implementar una función throttle utilizando TypeScript y TDD.
 
-⭐ Nivel 1
-Implementa una función throttle utilizando TypeScript y TDD.
+⭐ Nivel 1  
+Implementa una función throttle utilizando TypeScript y TDD.  
 Utiliza pruebas para verificar la funcionalidad de la función throttle.
 
-⭐⭐ Nivel 2
+⭐⭐ Nivel 2  
 Crea una interfaz de línea de comandos (CLI) para verificar la funcionalidad de la función throttle.
 
-⭐⭐⭐ Nivel 3
+⭐⭐⭐ Nivel 3  
 Crea un front-end para verificar la funcionalidad de la función throttle.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
