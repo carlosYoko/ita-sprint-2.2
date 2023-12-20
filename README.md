@@ -1,8 +1,24 @@
 # Throttle Function
 
-Trabajo del Sprint 2.2 de IT-Academy en la especialización de Node.js.<br>
-Aplicación throttle function utilizando TypeScript y el patrón MVC.<br>
+Aplicación throttle function utilizando TypeScript y el patrón MVC.
 Incluye interfaz CLI, testing y frontend básico en HTML.
+#####Trabajo del Sprint 2.2 de IT-Academy en la especialización de Node.js.<br>
+
+La función throttle se utiliza para limitar la frecuencia de ejecución de una función en respuesta a eventos repetidos. A diferencia de la función debounce, que retrasa la ejecución de la función hasta que no se produce ningún evento durante un tiempo determinado, la función throttle permite ejecutar la función en intervalos de tiempo regulares.
+
+En otras palabras, la función throttle establecerá un intervalo de tiempo entre las ejecuciones de la función para asegurarse de que no se ejecute más a menudo de lo necesario. Esta técnica es útil cuando se desea controlar la frecuencia de ejecución de una función en respuesta a eventos repetitivos, como desplazamientos, actualizaciones de interfaces de usuario o llamadas a funciones costosas.
+
+- Implementar una función throttle utilizando TypeScript y TDD.
+
+⭐ Nivel 1
+Implementa una función throttle utilizando TypeScript y TDD.
+Utiliza pruebas para verificar la funcionalidad de la función throttle.
+
+⭐⭐ Nivel 2
+Crea una interfaz de línea de comandos (CLI) para verificar la funcionalidad de la función throttle.
+
+⭐⭐⭐ Nivel 3
+Crea un front-end para verificar la funcionalidad de la función throttle.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
