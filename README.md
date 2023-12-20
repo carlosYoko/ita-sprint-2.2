@@ -2,7 +2,10 @@
 
 Aplicación throttle function utilizando TypeScript y el patrón MVC.
 Incluye interfaz CLI, testing y frontend básico en HTML.
-#####Trabajo del Sprint 2.2 de IT-Academy en la especialización de Node.js.<br>
+
+##### Trabajo del Sprint 2.2 de IT-Academy en la especialización de Node.js.
+
+###### Descripción del ejercicio:
 
 La función throttle se utiliza para limitar la frecuencia de ejecución de una función en respuesta a eventos repetidos. A diferencia de la función debounce, que retrasa la ejecución de la función hasta que no se produce ningún evento durante un tiempo determinado, la función throttle permite ejecutar la función en intervalos de tiempo regulares.
 
